@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int a[10000] = {0};
+int a[100000] = {0};
 
 int main()
 {
